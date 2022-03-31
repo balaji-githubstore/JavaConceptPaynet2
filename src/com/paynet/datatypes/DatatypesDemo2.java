@@ -1,5 +1,5 @@
 package com.paynet.datatypes;
-
+//arthimetics operation
 public class DatatypesDemo2 {
 
 	public static void main(String[] args) {
